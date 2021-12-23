@@ -97,3 +97,19 @@
 去除 **config.plist**`/NVRAM/7C436110-AB2A-4BBB-A880-FE41995C9F82/boot-args` 中的如下参数
 
 * `-v keepsyms=1 debug=0x100`
+
+
+### 更新日志
+2021年12月23日
+OpenCore   0.7.3
+AirportBrcmFixup  2.1.3
+Lilu       1.5.8
+BrcmBluetoothInjector       2.6.1
+BrcmFirmwareData            2.6.1
+BrcmPatchRAM3               2.6.1
+SMCDellSensors              1.2.8
+SMCProcessor                1.2.8
+SMCSuperIO                  1.2.8
+VirtualSMC                  1.2.8
+VoodooHDA                   2021.04.13-297
+WhateverGreen               1.5.5
